@@ -8,7 +8,7 @@ This repository is based on the tutorial [Jupyter Workflow](https://jakevdp.gith
 
 ## Loading and Visualizing Data
 
-Using [Jupyter](http://jupyter.org) to download and visualize data.
+Using [Jupyter](http://jupyter.org) to download and visualize data: [JupyterWorkflow](http://nbviewer.jupyter.org/github/davpinto/eda-jupyter/blob/master/01_download_data.ipynb).
 
 Additional resources:
 
