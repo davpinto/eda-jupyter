@@ -8,10 +8,18 @@ This repository is based on the tutorial [Jupyter Workflow](https://jakevdp.gith
 
 ## Loading and Visualizing Data
 
-Using [Jupyter](http://jupyter.org) to download and visualize data: [JupyterWorkflow](http://nbviewer.jupyter.org/github/davpinto/eda-jupyter/blob/master/01_download_data.ipynb).
+Using [Jupyter](http://jupyter.org) to download and visualize data: [Download and Visualize](http://nbviewer.jupyter.org/github/davpinto/eda-jupyter/blob/master/01_download_data.ipynb).
 
 Additional resources:
 
 - [Fremont Bridge Bike Counter](http://www.seattle.gov/transportation/bikecounter_fremont.htm): the website where the data can be explored.
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython): Jake's book introducing the Python programming language, aimed at scientists and engineers.
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): Jake's book introducing Python's data science tools, including an introduction to the `IPython`, `Pandas`, and `Matplotlib` tools used in the tutorial.
+
+## Further Data Exploration
+
+More sophisticated visualizations using `matplotlib` and `pandas`: [Further Exploration](http://nbviewer.jupyter.org/github/davpinto/eda-jupyter/blob/master/02_further_exploration.ipynb)
+
+Additional resources:
+
+- [Pivot Tables Section](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb) from the Python Data Science Handbook.
